@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Will/Desktop/workspace2/MeetupLatLong2/app/build/intermediates/incremental-classes/debug/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98efbbd0e27a72498f3aa58b3a4e55b50af6b444">
+        <dex dex="/Users/Will/Desktop/workspace2/MeetupLatLong2/app/build/intermediates/pre-dexed/debug/classes_3aca942f6af623aac05cb6f8c9378aa1516eff7c.jar" />
+    </item>
+    <item
+        jar="/Users/Will/Desktop/workspace2/MeetupLatLong2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3364b62bf02da3c09826900b62706223a854e3e2">
+        <dex dex="/Users/Will/Desktop/workspace2/MeetupLatLong2/app/build/intermediates/pre-dexed/debug/instant-run_aae7b547914d55931da6fdf5c423e59dd5e3681a.jar" />
+    </item>
+
+</items>
